@@ -1,0 +1,15 @@
+/*
+ * hal_system.h
+ *
+ *  Created on: 21 déc. 2018
+ *      Author: thomas
+ */
+
+#ifndef THIRD_PARTY_MCUBOOT_BOOT_STM32_INCLUDE_HAL_HAL_SYSTEM_H_
+#define THIRD_PARTY_MCUBOOT_BOOT_STM32_INCLUDE_HAL_HAL_SYSTEM_H_
+
+
+
+
+
+#endif /* THIRD_PARTY_MCUBOOT_BOOT_STM32_INCLUDE_HAL_HAL_SYSTEM_H_ */
